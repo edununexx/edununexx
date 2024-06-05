@@ -12,7 +12,7 @@
 
 Analista de QA júnior e futuro programador fullstack!
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edununexx&theme=shadow_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edununexx&theme=ocean_dark&show_icons=true)
 <div align="right">
 <a href="https://www.linkedin.com/in/eduardo-nunes-steinhorst-90ab63254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
