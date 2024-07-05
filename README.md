@@ -5,7 +5,7 @@
 <h1 align="center"> Olá me chamo Eduardo Nunes, sou Analista de QA </h1>
  ➡️Bem-vindo ao meu portfólio⬅️
 
- Tenho 19 anos, possuo curso Técnico em Informática onde descobri minha paixão com web. 
+ Possuo curso Técnico em Informática onde descobri minha paixão com web. 
  
  Em 2023 conclui meu primeiro bootcamp pela tripleten de Analista de QA, onde pude desenvolver mais minhas habilidades com a análise de qualidade de aplicativos e softwares, aprendendo sobre, metodologia Ágil SCRUM, SQL/Banco de dados, Testes de API,  Design de Testes e Testes Web, utilizando ferramentas como Figma, Jira, Postman, Draw.io e Swagger.
 
